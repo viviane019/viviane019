@@ -7,7 +7,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Aqui você vai encontrar alguns dos meus p
 ## 🌱 O que estou aprendendo
 - JavaScript
 - Python para análise de dados 📊  
-- Git & GitHub (sim, ainda estou me aprimorando) 🔧
+-  (sim, ainda estou me aprimorando) 🔧
  
 ---
 
