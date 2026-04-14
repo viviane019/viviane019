@@ -1,4 +1,17 @@
-# 👋 E aí, eu sou a Viviane — ou **Vivih** (@viviane019)
+# 👋 Olá, eu sou a Viviane — ou **Vivih** 💜
+
+💡 Estudante de tecnologia | Criativa | Sempre aprendendo algo novo  
+
+Bem-vindo(a) ao meu perfil! Aqui você vai encontrar projetos, ideias e um pouco da minha evolução no mundo da programação 🚀  
+
+---
+
+## 🧠 Sobre mim
+✨ Apaixonada por aprender coisas novas  
+🎯 Focada em crescer na área de tecnologia  
+📚 Estudando no SENAI  
+💻 Explorando desenvolvimento web e sistemas  
+
 
 Bem-vindo(a) ao meu perfil no GitHub! Aqui você vai encontrar alguns dos meus projetos, estudos e coisas legais que ando fazendo.
 
@@ -34,12 +47,10 @@ Bem-vindo(a) ao meu perfil no GitHub! Aqui você vai encontrar alguns dos meus p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
+<img src="https://raw.githubusercontent.com/viviane019/viviane019/output/snake.svg" alt="Snake animation" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viviane019/viviane019/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viviane019/viviane019/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/viviane019/viviane019/output/pacman-contribution-graph.svg">
-</picture>
+###
+
 
 
 ## 🌱 O que estou aprendendo
