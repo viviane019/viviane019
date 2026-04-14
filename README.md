@@ -44,9 +44,7 @@ Bem-vindo(a) ao meu perfil! Aqui você vai encontrar projetos, ideias e um pouco
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/viviane019/viviane019/output/snake.svg" alt="Snake animation" />
 
-###
 
 
 
