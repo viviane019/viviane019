@@ -12,9 +12,6 @@ Bem-vindo(a) ao meu perfil! Aqui você vai encontrar projetos, ideias e um pouco
 📚 Estudando no SENAI  
 💻 Explorando desenvolvimento web e sistemas  
 
-
-Bem-vindo(a) ao meu perfil no GitHub! Aqui você vai encontrar alguns dos meus projetos, estudos e coisas legais que ando fazendo.
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -56,7 +53,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Aqui você vai encontrar alguns dos meus p
 ## 🌱 O que estou aprendendo
 - JavaScript
 - Python para análise de dados 📊  
--  (sim, ainda estou me aprimorando) 🔧
+- (sim, ainda estou me aprimorando) 🔧
  
 
 
