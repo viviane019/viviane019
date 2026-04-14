@@ -15,6 +15,8 @@ Bem-vindo(a) ao meu perfil! Aqui você vai encontrar projetos, ideias e um pouco
 
 ---
 
+## 🌱 O que estou aprendendo
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -45,16 +47,9 @@ Bem-vindo(a) ao meu perfil! Aqui você vai encontrar projetos, ideias e um pouco
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
-
-
-
-
-
-## 🌱 O que estou aprendendo
-- JavaScript
-- Python para análise de dados 📊  
+</div>  
 - (sim, ainda estou me aprimorando) 🔧
+- 
  
 
 
