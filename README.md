@@ -48,7 +48,7 @@ Bem-vindo(a) ao meu perfil! Aqui você vai encontrar projetos, ideias e um pouco
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>  
-- (sim, ainda estou me aprimorando) 🔧
+- (sim, ainda estou me aprimorando)🔧
 - 
  
 
