@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou a Vivi 💜
 
 ---
-Estudante de tecnologia | Criativa | Sempre aprendendo algo novo  
+Estudante de tecnologia | Criativa | Sempre aprendendo algo novo 
+
 Bem-vindo(a) ao meu perfil! Aqui você vai encontrar projetos, ideias e um pouco da minha evolução no mundo da programação 🚀  
 
 ---
