@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou a Viviane — ou **Vivih** 💜
+# 👋 Olá, eu sou a Vivi 💜
 
-💡 Estudante de tecnologia | Criativa | Sempre aprendendo algo novo  
+Estudante de tecnologia | Criativa | Sempre aprendendo algo novo  
 
 Bem-vindo(a) ao meu perfil! Aqui você vai encontrar projetos, ideias e um pouco da minha evolução no mundo da programação 🚀  
 
@@ -11,6 +11,8 @@ Bem-vindo(a) ao meu perfil! Aqui você vai encontrar projetos, ideias e um pouco
 🎯 Focada em crescer na área de tecnologia  
 📚 Estudando no SENAI  
 💻 Explorando desenvolvimento web e sistemas  
+
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
